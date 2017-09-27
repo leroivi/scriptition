@@ -1,0 +1,6 @@
+[submodule "scriptition-interpreter"]
+	path = scriptition-interpreter
+	url = https://github.com/leroivi/scriptition-interpreter.git
+[submodule "scriptition-player"]
+	path = scriptition-player
+	url = https://github.com/leroivi/scriptition-player.git
